@@ -9,6 +9,7 @@
   --light: #33b3e6;
   --maroon:#800000;
   --red:#FF0000;
+  --grey:#808080;
 }
 
 
@@ -430,6 +431,10 @@ li {
 
 .control .colors span:nth-child(6) {
   background-color: var(--red);
+}
+
+.control .colors span:nth-child(7) {
+  background-color: var(--grey);
 }
 /* About */
 
